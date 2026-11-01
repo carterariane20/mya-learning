@@ -1,42 +1,26 @@
 {
-  "version": "1.5.1",
+  "version": "1.5.2",
   "app": {
-    "url": "https://github.com/carterariane20/mya-learning/releases/download/v1.5.1/Mya-English-1.5.1.dmg",
-    "sha256": "3a720fc064d86deb6257bbb0bb1a5ac6313864581bfbf2f463b85b5f02e9abe4",
-    "size": 7995083
+    "url": "https://github.com/carterariane20/mya-learning/releases/download/v1.5.2/Mya-English-1.5.2.dmg",
+    "sha256": "a1f47cf766cee204dd3b21adcdef7e1dd5dc762c3f0bce85f2e5a8234d988756",
+    "size": 3209482
   },
   "lessons": [
     {
       "id": 1,
       "name": "01-hello",
       "version": 1,
-      "url": "https://github.com/carterariane20/mya-learning/releases/download/v1.5.1/Mya-Lesson-01-hello.zip",
-      "sha256": "718457f96466ff8fbed5cb20568c7e8eea69d4c18e09f24074ca8c5841668663",
+      "url": "https://github.com/carterariane20/mya-learning/releases/download/v1.5.2/Mya-Lesson-01-hello.zip",
+      "sha256": "e56e550361a8ddffcc6052342251c3e92455bf74b15a8bbd0369fef9dec5e9cf",
       "size": 997150
     },
     {
       "id": 2,
       "name": "02-happy",
       "version": 1,
-      "url": "https://github.com/carterariane20/mya-learning/releases/download/v1.5.1/Mya-Lesson-02-happy.zip",
-      "sha256": "c74a966b97da6bd353245c041413d345e246725332980ea40e5f901ca9864eb2",
+      "url": "https://raw.githubusercontent.com/carterariane20/mya-learning/main/lessons/Mya-Lesson-02-happy.zip",
+      "sha256": "c1b64f6fc5a03eb6a336b00926d2e88c8af232d39928f740d85e544944b06d35",
       "size": 1447236
-    },
-    {
-      "id": 3,
-      "name": "03-numbers",
-      "version": 1,
-      "url": "https://github.com/carterariane20/mya-learning/releases/download/v1.5.1/Mya-Lesson-03-numbers.zip",
-      "sha256": "b18e30a8c5b90c1ff640026250015a50c8bd98cc5adfcca4db7dabb2b0446b6e",
-      "size": 1327403
-    },
-    {
-      "id": 4,
-      "name": "04-colors",
-      "version": 1,
-      "url": "https://github.com/carterariane20/mya-learning/releases/download/v1.5.1/Mya-Lesson-04-colors.zip",
-      "sha256": "3481c6eef04c95e90e911823f9c12a836d8be0063407104de971fd4cbab59d2b",
-      "size": 959780
     }
   ]
 }
