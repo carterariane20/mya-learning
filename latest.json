@@ -1,16 +1,16 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.3",
   "app": {
-    "url": "https://github.com/carterariane20/mya-learning/releases/download/v1.1.0/Mya-English-1.1.0.dmg",
-    "sha256": "30757a3c9cccb96f2a151fdfb60126c0eb4bc9753bc37c165cde683fa9e823ce",
-    "size": 3159973
+    "url": "https://github.com/carterariane20/mya-learning/releases/download/v1.1.3/Mya-English-1.1.3.dmg",
+    "sha256": "2d608688bfb6aba0157afa7a90c3e5376dd559f4c1902b442f1a7cddbe49a639",
+    "size": 3161019
   },
   "lessons": [
     {
       "id": 1,
       "name": "01-hello",
-      "url": "https://github.com/carterariane20/mya-learning/releases/download/v1.1.0/Mya-Lesson-01-hello.zip",
-      "sha256": "ebc512551c2e451e359a0e372a1c9e67c394ac695cb9fb6dd92948e4f86a599b",
+      "url": "https://github.com/carterariane20/mya-learning/releases/download/v1.1.3/Mya-Lesson-01-hello.zip",
+      "sha256": "72b2c028ff1b74d3fdf9667d3cd2090d11d841aa99858ee2830fbfd58515291e",
       "size": 997064
     }
   ]
