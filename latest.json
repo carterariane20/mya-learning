@@ -16,24 +16,6 @@
       "library": 1
     },
     {
-      "id": 2,
-      "name": "02-happy",
-      "version": 5,
-      "url": "https://raw.githubusercontent.com/carterariane20/mya-learning/main/lessons/Mya-Lesson-02-happy.zip",
-      "sha256": "d8188285e6b3a1963c0cb694ccf0ff0a492a52e51806ba6c8d1935cc0fb32c29",
-      "size": 1286304,
-      "library": 1
-    },
-    {
-      "id": 3,
-      "name": "03-numbers",
-      "version": 16,
-      "url": "https://raw.githubusercontent.com/carterariane20/mya-learning/main/lessons/Mya-Lesson-03-numbers.zip",
-      "sha256": "7200485c47dc5be9971797ddbe02d2858a44aff9d08c396ee97f9f7b8b5ffe51",
-      "size": 1532795,
-      "library": 1
-    },
-    {
       "id": 4,
       "name": "04-colors",
       "version": 6,
@@ -50,7 +32,7 @@
       "name": "01-hello",
       "version": 3,
       "url": "https://github.com/carterariane20/mya-learning/releases/download/v1.5.6/Mya-Lesson-01-hello.zip",
-      "sha256": "181499bff160df517fe556052878d911a35804fc2e3471550b2e2ae262f9b06b",
+      "sha256": "ed9cf409bf33871f81437770ba1fef3c907ff0ab07af3d9cb21d7848e50540fe",
       "size": 1069933,
       "library": 1
     },
@@ -58,8 +40,8 @@
       "id": 2,
       "name": "02-happy",
       "version": 5,
-      "url": "https://raw.githubusercontent.com/carterariane20/mya-learning/main/lessons/v2/Mya-Lesson-02-happy.zip",
-      "sha256": "2ee130ef44f47af6491d82e2f681263d2cf792f73080650b2dee702856d556e6",
+      "url": "https://raw.githubusercontent.com/carterariane20/mya-learning/main/lessons/Mya-Lesson-02-happy.zip",
+      "sha256": "8776cac9f1e8e7ee43ac99cd5b40f806c3a345e554b536f77ed811eaa592663a",
       "size": 1286304,
       "library": 1
     },
@@ -67,8 +49,8 @@
       "id": 3,
       "name": "03-numbers",
       "version": 16,
-      "url": "https://raw.githubusercontent.com/carterariane20/mya-learning/main/lessons/v2/Mya-Lesson-03-numbers.zip",
-      "sha256": "2efaa7258454b27f486e0cce6cd035eebc9c4801758c00aad0e1aa321718ed1f",
+      "url": "https://raw.githubusercontent.com/carterariane20/mya-learning/main/lessons/Mya-Lesson-03-numbers.zip",
+      "sha256": "0c5e8f22672aa9fc586cfd90a5fb700b4d9bf55d3c704d578d9759f36c9055e4",
       "size": 1532795,
       "library": 1
     }
