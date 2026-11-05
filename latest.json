@@ -1,9 +1,9 @@
 {
-  "version": "1.5.7",
+  "version": "1.5.8",
   "app": {
-    "url": "https://github.com/carterariane20/mya-learning/releases/download/v1.5.7/Mya-English-1.5.7.dmg",
-    "sha256": "aa71dd327c18fca1e904320cff961716a5a9cfecc9f853f5bc4fe9ffa9103e48",
-    "size": 3904871
+    "url": "https://github.com/carterariane20/mya-learning/releases/download/v1.5.8/Mya-English-1.5.8.dmg",
+    "sha256": "a0a4756cf406ba5b0653891c51cb273709870c846b7f059060f327b23ec38b48",
+    "size": 3921385
   },
   "lessons": [
     {
@@ -31,9 +31,9 @@
       "id": 1,
       "name": "01-hello",
       "version": 3,
-      "url": "https://github.com/carterariane20/mya-learning/releases/download/v1.5.7/Mya-Lesson-01-hello.zip",
-      "sha256": "4fa29731b4fab72b3bdefb5db2ed746ea3d8757735415a83e26c82c48b71cd18",
-      "size": 1069933,
+      "url": "https://github.com/carterariane20/mya-learning/releases/download/v1.5.8/Mya-Lesson-01-hello.zip",
+      "sha256": "0fbafaa5957f179782e31dae602342a53396fda1f283185e2630bff4cb4940e6",
+      "size": 1069915,
       "library": 1
     },
     {
@@ -41,7 +41,7 @@
       "name": "02-happy",
       "version": 5,
       "url": "https://raw.githubusercontent.com/carterariane20/mya-learning/main/lessons/Mya-Lesson-02-happy.zip",
-      "sha256": "e26208896fd8c7896c4b006f2b26ee3be105c1034e6dc3ed7cf6dcae69de3aae",
+      "sha256": "1ad92b7051b26195ffba58c502af554574bffa7be0f9356bb033a2df1f28807d",
       "size": 1286304,
       "library": 1
     },
@@ -50,7 +50,7 @@
       "name": "03-numbers",
       "version": 16,
       "url": "https://raw.githubusercontent.com/carterariane20/mya-learning/main/lessons/Mya-Lesson-03-numbers.zip",
-      "sha256": "8e1c13fc706009b19f6378d66513651e66a1548e3f45b4700f8b90de5f9772db",
+      "sha256": "651a426e401620aab2ac10af12d2361dff7e7e7cd70ddda84b2a268ed1db1616",
       "size": 1532795,
       "library": 1
     },
@@ -59,10 +59,10 @@
       "name": "05-animals",
       "version": 1,
       "url": "https://raw.githubusercontent.com/carterariane20/mya-learning/main/lessons/Mya-Lesson-05-animals.zip",
-      "sha256": "8a4a51d3e01776ccff62b057100b097df7c2345e46aa3d3bc933fd63c2d3572c",
+      "sha256": "152f6c955c60bcb306c6b15a1c8063891145d516df3db5196bfd496b7b5ec257",
       "size": 1469832,
       "library": 1
     }
   ],
-  "sig": "d4Ua2v1dzQmfUUu40jZPg43PD6CVVNT8JBF+KBnYrydl+fm76qr3ZOTjgXTLi1gvmct2eoRCpcehpbk+m2mbDQ=="
+  "sig": "sz+GGYhxYAugSYOBbKXrvZ/gsPWJXcbaOrtVDoVt0+hLLsR5yuEKRj5uejO+X97YDCIXFVObFZt13H3NYC+9CA=="
 }
