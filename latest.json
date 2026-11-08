@@ -11,7 +11,7 @@
       "name": "01-hello",
       "version": 3,
       "url": "https://github.com/carterariane20/mya-learning/releases/download/v1.5.8/Mya-Lesson-01-hello.zip",
-      "sha256": "2fc5d2a214e8bca25b786e356e20d8e8e3ee836de87a0b3b5a9e19b4ae4ebe2c",
+      "sha256": "e314b59e1567b1047196bd38dac9823acc16532941979faa8a3c70f82a913ffe",
       "size": 1069915,
       "library": 1
     },
@@ -20,7 +20,7 @@
       "name": "02-happy",
       "version": 5,
       "url": "https://raw.githubusercontent.com/carterariane20/mya-learning/main/lessons/Mya-Lesson-02-happy.zip",
-      "sha256": "1d8d5b91827fb8da2cb9885e4fd97e463d3b4737cb7ac4eceb20e8679c03a0c5",
+      "sha256": "c6d6b49494e0e1a0f4a925f7ec77802a591d15b33db76768fc9b5bd79abab035",
       "size": 1286304,
       "library": 1
     },
@@ -29,7 +29,7 @@
       "name": "03-numbers",
       "version": 16,
       "url": "https://raw.githubusercontent.com/carterariane20/mya-learning/main/lessons/Mya-Lesson-03-numbers.zip",
-      "sha256": "bef795a22328f308a886873f2538530eda11ed97a413c5dd1221d915097783f3",
+      "sha256": "970a0d5ab76cf72b57e66bbadfddb59796cab3b350a008d0bf2541d1a6a9e741",
       "size": 1532795,
       "library": 1
     },
@@ -38,7 +38,7 @@
       "name": "04-colors",
       "version": 8,
       "url": "https://raw.githubusercontent.com/carterariane20/mya-learning/main/lessons/Mya-Lesson-04-colors.zip",
-      "sha256": "6cb838dfe990c86b50d2686c4543ba1c76a8df8dee6bd2cc4f1c6a918c6b3d74",
+      "sha256": "466c185e4fa8038566d7dd0aec704f0b04e2c74d4ead16608cb8db6c2b757466",
       "size": 1247802,
       "library": 1
     },
@@ -47,7 +47,7 @@
       "name": "05-animals",
       "version": 1,
       "url": "https://raw.githubusercontent.com/carterariane20/mya-learning/main/lessons/Mya-Lesson-05-animals.zip",
-      "sha256": "20fd5478d79f89dbf07bce8a4ad8ba221c48ca8aab7adb3da0f854ecf9382bfe",
+      "sha256": "28e18d9974d85bde7ff0898e5919904b7f2bd7924443bc00305ec53fe07186f5",
       "size": 1469832,
       "library": 1
     },
@@ -56,7 +56,7 @@
       "name": "06-body",
       "version": 1,
       "url": "https://raw.githubusercontent.com/carterariane20/mya-learning/main/lessons/Mya-Lesson-06-body.zip",
-      "sha256": "1f5dcf611722bb786f179c67d002da9968c8593e769b76e5fc89bc544705fb30",
+      "sha256": "a329190384a15a752e472544e3b559e441785e126744274de9edfc2780c0dc27",
       "size": 2006502,
       "library": 1
     },
@@ -65,11 +65,20 @@
       "name": "07-family",
       "version": 1,
       "url": "https://raw.githubusercontent.com/carterariane20/mya-learning/main/lessons/Mya-Lesson-07-family.zip",
-      "sha256": "ddac2f443cd8d670c3696630251d625c545a550b353597a9ceb81fa3b77f5013",
+      "sha256": "c3cf458adb0dba1e02418899e75aeba84e9bc66882fd95217e6031e751790855",
       "size": 1799518,
+      "library": 1
+    },
+    {
+      "id": 8,
+      "name": "08-food",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/carterariane20/mya-learning/main/lessons/Mya-Lesson-08-food.zip",
+      "sha256": "753cb07867c6e78cf837a9f6590c102c2bfa323e2052c23b76dabbdc178df090",
+      "size": 2208671,
       "library": 1
     }
   ],
   "library": 1,
-  "sig": "gVCbdP/5fOXTqOHo8ZuiD9kmGD6xGyya2FsjXm/loFXmGH+fggx6ClDp5Ay1uQpTqxLhQJhTG6A1pvEqZZGEDA=="
+  "sig": "lWe8gvXwSo4GuhevSBv7YK8qk70UMc7IsYM1a86fPgwi0aee/icdui8cV3ocDYrCeOLKj9Sl+JfRRFlgxTBaDw=="
 }
